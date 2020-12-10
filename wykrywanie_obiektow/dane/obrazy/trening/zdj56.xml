@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>zdjecia</folder>
+	<filename>zdj56.png</filename>
+	<path>/home/pi/Desktop/zdjecia/zdj56.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ograniczenie 50</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>14</ymin>
+			<xmax>408</xmax>
+			<ymax>75</ymax>
+		</bndbox>
+	</object>
+</annotation>

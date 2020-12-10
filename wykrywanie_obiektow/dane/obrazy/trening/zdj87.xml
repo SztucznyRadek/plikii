@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>zdjecia</folder>
+	<filename>zdj87.png</filename>
+	<path>/home/pi/Desktop/zdjecia/zdj87.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ograniczenie 50</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>95</ymin>
+			<xmax>158</xmax>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ograniczenie 50</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>387</xmin>
+			<ymin>51</ymin>
+			<xmax>509</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>
